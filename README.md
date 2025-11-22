@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Thisara  
+# Hi there 👋 I'm Thisara Vithanage 
 <!--
 🚀 Passionate about **Software Development, Databases, and Problem Solving**  
 💡 Always curious to learn new technologies and build cool projects  
